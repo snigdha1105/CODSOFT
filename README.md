@@ -1,6 +1,9 @@
 # CODSOFT
 
 CODSOFT Internship Projects
+
+
+
 📌 Task 1 – Landing Page
 The objective of this project was to design an engaging and responsive landing page using HTML and CSS. The landing page acts as the first point of interaction for users, so I focused on creating a visually appealing layout that ensures easy navigation and delivers a strong first impression.
 
